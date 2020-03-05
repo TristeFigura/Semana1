@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1583436242 source:c:\users\cadastro02\desktop\c code\exer04\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+
