@@ -6,19 +6,16 @@ int main() {
     double metros;
 
     printf("Entre com o valor em metros: \n");
-    scanf("%f", &metros);
+    scanf("%d", &metros);
 
-    int decimetro;
-    double centimetro;
-    double milimetro;
+    double decimetro = metros/10;
+    double centimetro = metros/100;
+    double milimetro = metros/1000;
 
-    decimetro = metros/10;
-    centimetro = metros/100;
-    milimetro = metros/1000;
-
-    printf("Decimetros: %f\n", decimetro);
-    printf("Centimetros: %f\n", centimetro);
-    printf("Milimetro: %f\n", milimetro);
+    printf("Entrada em metros: %d\n", metros);
+    printf("Decimetros: %d\n", decimetro);
+    printf("Centimetros: %d\n", centimetro);
+    printf("Milimetro: %d\n", milimetro);
 
 
     return 0;

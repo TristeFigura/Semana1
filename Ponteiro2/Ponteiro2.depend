@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1583760719 source:c:\users\cadastro02\desktop\c code\ponteiro2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+

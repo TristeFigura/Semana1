@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1583501542 source:c:\users\cadastro02\desktop\c code\tomada de decisões\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1583776227 source:c:\users\cadastro02\desktop\c code\fatorial\main.c
+	<stdio.h>
+	<stdlib.h>
+
